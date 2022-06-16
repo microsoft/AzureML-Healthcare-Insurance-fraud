@@ -1,0 +1,26 @@
+#Step 0:
+#Open an Azure Machine Learning (AML) terminal for a compute
+
+#Step 1:
+#Pip
+pip install beautifultable
+
+#Step 2:
+#Check existing Conda environments
+conda env list
+
+#Step 3:
+#Copy existing Conda environement
+cp -R /anaconda/envs/azureml_py38 /anaconda/envs/hpfda
+
+#Step 4:
+#Load the kernel into AML
+python -m ipykernel install --user --name hpfda --display-name "Python 3.8 - AzureML Mod"
+
+#Step 5:
+#Activate the environment
+conda activate hpfda
+
+#Step 6:
+#Exit the terminal (these are Bash commands)
+exit
