@@ -1,3 +1,14 @@
+# Notes
+
+This project utilizes existing code from: Healthcare Provider Fraud Detection Analysis using Machine Learning
+Build a binary classification model based on the claims filed by the provider along with Inpatient data, Outpatient data, Beneficiary details to predict Healthcare Provider Fraud. Anik Manik. Feb 27, 2021
+
+https://medium.com/analytics-vidhya/healthcare-provider-fraud-detection-analysis-using-machine-learning-81ebf09ed955
+https://github.com/anikmanik04/healthcare-provider-fraud-detection
+
+The goals of this project are to compare the current python machine learning methods provided by "Anik Manik", with those available in Azure Machine Learning. Azure Machine Learning provides an integrated Automated ML system that utilizes integrated parallel processing across cluster compute. 
+
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
