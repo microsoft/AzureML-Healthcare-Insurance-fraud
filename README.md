@@ -2,11 +2,13 @@
 
 This project utilizes existing code from: __"Healthcare Provider Fraud Detection Analysis using Machine Learning"__
 
-Build a binary classification model based on the claims filed by the provider along with Inpatient data, Outpatient data, Beneficiary details to predict Healthcare Provider Fraud. Anik Manik. Feb 27, 2021
+Build a binary classification model based on the claims filed by the provider along with Inpatient data, Outpatient data, Beneficiary details to predict Healthcare Provider Fraud. Anik Manik. Feb 27, 2021. The orginal dataset used for this analysis is public domain and provided on Kaggle. 
 
 https://medium.com/analytics-vidhya/healthcare-provider-fraud-detection-analysis-using-machine-learning-81ebf09ed955
 
 https://github.com/anikmanik04/healthcare-provider-fraud-detection
+
+https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis
 
 The goals of this project are to compare the current python machine learning methods provided by "Anik Manik", with those available in Azure Machine Learning (AML). Azure Machine Learning provides an integrated Automated ML system that utilizes integrated parallel processing across cluster compute. We hypothesize that AML's integrated assets (environments, experiments, pipelines, datasets, models, endpoints) integrated automated machine learning, VS Code (IDE) integration, CLI, notebooks, and drag and drop GUI designer provide a more robust development and deployment environment than traditional machine learning environments. 
 
